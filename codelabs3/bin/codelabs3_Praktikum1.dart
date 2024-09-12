@@ -1,4 +1,3 @@
-import 'package:codelabs3/codelabs3.dart' as codelabs3;
 
 main() {
   String test = "test2";
